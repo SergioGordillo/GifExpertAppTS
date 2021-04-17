@@ -1,3 +1,5 @@
+<img src="https://github.com/SergioGordillo/GifExpertAppTS/blob/main/gifexpertapp.png" alt="Image of the home of the app"/>
+
 # What can you do with this web app?
 
 It is a web app which enables the user to:
