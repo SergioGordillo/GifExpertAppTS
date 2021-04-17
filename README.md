@@ -1,4 +1,4 @@
-<img src="https://github.com/SergioGordillo/GifExpertAppTS/blob/main/gifexpertapp.png" alt="Image of the home of the app"/>
+<img src="https://github.com/SergioGordillo/GifExpertAppTS/blob/main/fotodelaapp.png" alt="Image of the home of the app"/>
 
 # What can you do with this web app? :thinking:
 
