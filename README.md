@@ -1,3 +1,24 @@
+# What can you do with this web app?
+
+It is a web app which enables the user to:
+
+· Write a keyword to look for gifs in Giphy. <br>
+· The user will see on the screen the 10 first gifs available in Giphy with the keyword he has just used in the search. <br>
+
+# What I used to do this web app?
+
+It is a beginner web app made with React + TypeScript + Animate.css library to do some animations. <br>
+I used Create-React-App to create my React App. <br>
+
+# Which is the purpose of this web app?
+
+It is a web app I made based on Fernando Herrera React course (in the course it is developed with JS, but I have developed it with TS). I havent made a lot of changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the basic React knowledge. I know the styles are very basic, but I just focused on React stuff. I learnt with this project about:
+
+· Basic React Hooks: useState, useEffect, Custom Hooks.  <br>
+· Doing services to APIs, in this case, I used Giphy API.  <br>
+· Using React + TypeScript.  <br>
+· Insert some basic animations with Animate.css.  <br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
