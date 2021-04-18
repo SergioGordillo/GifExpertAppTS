@@ -1,5 +1,9 @@
 <img src="https://github.com/SergioGordillo/GifExpertAppTS/blob/main/fotodelaapp.png" alt="Image of the home of the app"/>
 
+# Can I try this web app? :open_mouth:
+
+Yes, of course. Here you have https://sergiogordillo.github.io/GifExpertAppTS/. <br>
+
 # What can you do with this web app? :thinking:
 
 It is a web app which enables the user to:
